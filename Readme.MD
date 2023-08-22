@@ -1,3 +1,3 @@
-# crackjs-medium
+# CrackJS Articles Codebase
 
-This repostiry represents the code snippet in the Medium Articles of CrackJS (crackjs.com)
+The repository contains all the code snippets categorized into various articles published by [CrackJS](https://crackjs.com) (Afan Khan) for public reference.
